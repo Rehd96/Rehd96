@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rehd96, I'm 25
+- 👋 Hi, I’m @Rehd96, I'm 27
 - 👀 I’m interested in Python, cibersecurity and IT
-- 🌱 I’m currently learning Python and PhP in a private school. It's going well, I got a Python Specialist Certification by now!
-- 💞️ I’m looking to collaborate on anything in IT. Curently I'm working as a waiter since 5 years
+- 🌱 I’m currently working as external employee for a worldwide company as a MES Reporting&Monitoring specialist
+- 💞️ I’m looking to collaborate on anything in IT. I've got a Python Specialist Certification
 - 📫 How to reach me : @n1_ice on twitter
